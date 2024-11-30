@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:57976",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\evanm\\source\\repos\\SalesOrderProfescipta\\SalesOrderProfescipta.Server\\..\\salesorderprofescipta.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

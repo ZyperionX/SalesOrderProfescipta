@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evanm\\source\\repos\\SalesOrderProfescipta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A52AE03E-8EFE-4A7A-BEF2-61BB8129CE7C}|salesorderprofescipta.client\\salesorderprofescipta.client.esproj|c:\\users\\evanm\\source\\repos\\salesorderprofescipta\\salesorderprofescipta.client\\src\\components\\createsalesorder.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A52AE03E-8EFE-4A7A-BEF2-61BB8129CE7C}|salesorderprofescipta.client\\salesorderprofescipta.client.esproj|solutionrelative:salesorderprofescipta.client\\src\\components\\createsalesorder.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52AE03E-8EFE-4A7A-BEF2-61BB8129CE7C}|salesorderprofescipta.client\\salesorderprofescipta.client.esproj|c:\\users\\evanm\\source\\repos\\salesorderprofescipta\\salesorderprofescipta.client\\src\\components\\salesorderlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A52AE03E-8EFE-4A7A-BEF2-61BB8129CE7C}|salesorderprofescipta.client\\salesorderprofescipta.client.esproj|solutionrelative:salesorderprofescipta.client\\src\\components\\salesorderlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52AE03E-8EFE-4A7A-BEF2-61BB8129CE7C}|salesorderprofescipta.client\\salesorderprofescipta.client.esproj|c:\\users\\evanm\\source\\repos\\salesorderprofescipta\\salesorderprofescipta.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A52AE03E-8EFE-4A7A-BEF2-61BB8129CE7C}|salesorderprofescipta.client\\salesorderprofescipta.client.esproj|solutionrelative:salesorderprofescipta.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52AE03E-8EFE-4A7A-BEF2-61BB8129CE7C}|salesorderprofescipta.client\\salesorderprofescipta.client.esproj|c:\\users\\evanm\\source\\repos\\salesorderprofescipta\\salesorderprofescipta.client\\src\\components\\editsalesorder.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A52AE03E-8EFE-4A7A-BEF2-61BB8129CE7C}|salesorderprofescipta.client\\salesorderprofescipta.client.esproj|solutionrelative:salesorderprofescipta.client\\src\\components\\editsalesorder.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditSalesOrder.jsx",
+              "DocumentMoniker": "C:\\Users\\evanm\\source\\repos\\SalesOrderProfescipta\\salesorderprofescipta.client\\src\\components\\EditSalesOrder.jsx",
+              "RelativeDocumentMoniker": "salesorderprofescipta.client\\src\\components\\EditSalesOrder.jsx",
+              "ToolTip": "C:\\Users\\evanm\\source\\repos\\SalesOrderProfescipta\\salesorderprofescipta.client\\src\\components\\EditSalesOrder.jsx",
+              "RelativeToolTip": "salesorderprofescipta.client\\src\\components\\EditSalesOrder.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-30T04:40:46.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\evanm\\source\\repos\\SalesOrderProfescipta\\salesorderprofescipta.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "salesorderprofescipta.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\evanm\\source\\repos\\SalesOrderProfescipta\\salesorderprofescipta.client\\src\\App.jsx",
+              "RelativeToolTip": "salesorderprofescipta.client\\src\\App.jsx",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwEoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-29T14:28:25.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSalesOrder.jsx",
+              "DocumentMoniker": "C:\\Users\\evanm\\source\\repos\\SalesOrderProfescipta\\salesorderprofescipta.client\\src\\components\\CreateSalesOrder.jsx",
+              "RelativeDocumentMoniker": "salesorderprofescipta.client\\src\\components\\CreateSalesOrder.jsx",
+              "ToolTip": "C:\\Users\\evanm\\source\\repos\\SalesOrderProfescipta\\salesorderprofescipta.client\\src\\components\\CreateSalesOrder.jsx",
+              "RelativeToolTip": "salesorderprofescipta.client\\src\\components\\CreateSalesOrder.jsx",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-30T01:40:53.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesOrderList.jsx",
+              "DocumentMoniker": "C:\\Users\\evanm\\source\\repos\\SalesOrderProfescipta\\salesorderprofescipta.client\\src\\components\\SalesOrderList.jsx",
+              "RelativeDocumentMoniker": "salesorderprofescipta.client\\src\\components\\SalesOrderList.jsx",
+              "ToolTip": "C:\\Users\\evanm\\source\\repos\\SalesOrderProfescipta\\salesorderprofescipta.client\\src\\components\\SalesOrderList.jsx*",
+              "RelativeToolTip": "salesorderprofescipta.client\\src\\components\\SalesOrderList.jsx*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-30T01:41:49.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

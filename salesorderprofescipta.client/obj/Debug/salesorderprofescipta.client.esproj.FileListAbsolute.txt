@@ -1,0 +1,1 @@
+C:\Users\evanm\source\repos\SalesOrderProfescipta\salesorderprofescipta.client\obj\Debug\salesorderprofescipta.client.esproj.CoreCompileInputs.cache
