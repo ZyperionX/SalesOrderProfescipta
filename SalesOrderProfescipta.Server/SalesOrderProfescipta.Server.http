@@ -1,6 +1,9 @@
 @SalesOrderProfescipta.Server_HostAddress = http://localhost:5083
 
-GET {{SalesOrderProfescipta.Server_HostAddress}}/weatherforecast/
+GET {{SalesOrderProfescipta.Server_HostAddress}}/api/dropdown/customer/
+Accept: application/json
+
+GET {{SalesOrderProfescipta.Server_HostAddress}}/api/salesorder
 Accept: application/json
 
 ###

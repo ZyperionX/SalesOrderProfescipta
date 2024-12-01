@@ -47,10 +47,14 @@ export default defineConfig({
     },
     server: {
         proxy: {
-            '^/weatherforecast': {
+            '^/api/dropdown/customer': {
                 target,
                 secure: false
-            }
+            },
+            '^/api/salesorder': {
+                target,
+                secure: false
+            },
         },
         port: 57976,
         https: {

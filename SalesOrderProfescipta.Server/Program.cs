@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using SalesOrderProfescipta.Server;
+using SalesOrderProfescipta.Server.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,9 @@ builder.Services.AddDbContext<SalesDbContext>(option =>
     option.UseSqlServer(builder.Configuration.GetConnectionString("Db")
 ));
 
+builder.Services.AddTransient<SalesOrderService>();
+builder.Services.AddTransient<DropdownService>();
+
 var app = builder.Build();
 
 app.UseDefaultFiles();
@@ -25,6 +29,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+// Change the origins with your localhost server
+app.UseCors(builder =>
+  builder
+    .WithOrigins("https://localhost:57976")
+    .WithExposedHeaders("Content-Disposition"));
 
 app.UseHttpsRedirection();
 

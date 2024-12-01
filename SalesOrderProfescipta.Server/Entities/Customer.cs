@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace SalesOrderProfescipta.Server.Models
+namespace SalesOrderProfescipta.Server.Entities
 {
     public class Customer
     {
@@ -9,6 +9,6 @@ namespace SalesOrderProfescipta.Server.Models
 
         public string Name { get; set; } = string.Empty;
 
-        public virtual required ICollection<Order> Orders { get; set; }
+        public virtual ICollection<Order> Orders { get; set; }
     }
 }
